@@ -1,0 +1,16 @@
+PODS:
+  - TestCategory (0.1.0)
+
+DEPENDENCIES:
+  - TestCategory (from `../`)
+
+EXTERNAL SOURCES:
+  TestCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestCategory: 98745b1dfd9c043e5683effc108d6ed5457297a4
+
+PODFILE CHECKSUM: 131ccbd7b6382ac23d4682e2a487a643997bccd9
+
+COCOAPODS: 1.7.0
